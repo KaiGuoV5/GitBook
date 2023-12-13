@@ -3,6 +3,7 @@
 * [💻 Computer](README.md)
   * [⌨ Unix](computer/unix/README.md)
     * [⌨ Terminal Short Cut](computer/unix/terminal-short-cut.md)
+    * [⌨ Terminal Beautification](computer/unix/terminal-beautification.md)
   * [🛠 Tools](computer/tools/README.md)
     * [🖊 Markdown Basic](computer/tools/markdown-basic.md)
     * [🖊 Markdown Advance](computer/tools/markdown-advance.md)
